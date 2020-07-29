@@ -10,7 +10,7 @@ https://opendrinks.io/
 **OpenDrinks** is powered and hosted by [NAVEEN](https://www.gajjalanaveenreddy.com)!
 
 <a href="https://www.gajjalanaveenreddy.com">
-  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/>
+  <img src="https://www.google.com/img/global/badges/netlify-color-accent.svg"/>
 </a>
 
 ## Submit a drink recipe
