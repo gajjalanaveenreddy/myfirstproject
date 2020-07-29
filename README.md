@@ -1,14 +1,5 @@
 #  Open Drinks
 
-> Open source drinks! Inspired by [🎃Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
-
-https://opendrinks.io/
-
-[![NAVEEN Status](https://api.gajjalanaveenreddy.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://opendrinks.NAVEEN.com)
-[![Build Status](https://gajjalanaveenreddy.org/alfg/opendrinks.svg?branch=master)](https://gajjalanaveenreddy.org/alfg/opendrinks)
-
-**OpenDrinks** is powered and hosted by [NAVEEN](https://www.gajjalanaveenreddy.com)!
-
 <a href="https://www.gajjalanaveenreddy.com">
   <img src="https://www.google.com/img/global/badges/netlify-color-accent.svg"/>
 </a>
