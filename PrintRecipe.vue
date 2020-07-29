@@ -14,3 +14,12 @@ export default {
   },
 };
 </script>
+
+<style>
+.container.mb-4.mb-4,
+footer.container,
+.print-button,
+.similar-drinks {
+  display: none;
+}
+</style>
