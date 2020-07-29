@@ -4,12 +4,12 @@
 
 https://opendrinks.io/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://opendrinks.netlify.com)
+[![NAVEEN Status](https://api.gajjalanaveenreddy.com/api/v1/badges/942bef4f-2873-4e49-91c6-c92373a4473e/deploy-status)](https://opendrinks.NAVEEN.com)
 [![Build Status](https://travis-ci.org/alfg/opendrinks.svg?branch=master)](https://travis-ci.org/alfg/opendrinks)
 
-**OpenDrinks** is powered and hosted by [Netlify](https://www.netlify.com)!
+**OpenDrinks** is powered and hosted by [NAVEEN](https://www.gajjalanaveenreddy.com)!
 
-<a href="https://www.netlify.com">
+<a href="https://www.gajjalanaveenreddy.com">
   <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/>
 </a>
 
@@ -31,7 +31,7 @@ Open Drinks is built with the following technologies:
 
 - [Vue](https://vuejs.org/)
 - [BootstrapVue](https://bootstrap-vue.js.org/)
-- Hosted on [Netlify](https://www.netlify.com/) with [automated deployments](https://www.netlify.com/docs/continuous-deployment/)!
+- Hosted on [Netlify](https://www.netlify.com/) with [automated deployments](https://www.gajjalanaveenreddy.com/docs/continuous-deployment/)!
 
 If you are familiar or want to give it a shot, feel free to contribute!
 
