@@ -31,7 +31,7 @@ Open Drinks is built with the following technologies:
 
 - [Vue](https://vuejs.org/)
 - [BootstrapVue](https://bootstrap-vue.js.org/)
-- Hosted on [Netlify](https://www.netlify.com/) with [automated deployments](https://www.gajjalanaveenreddy.com/docs/continuous-deployment/)!
+ 
 
 If you are familiar or want to give it a shot, feel free to contribute!
 
