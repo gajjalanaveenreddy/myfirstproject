@@ -2,7 +2,7 @@
 node_modules
 /dist
 /coverage
-.netlify/functions
+.naveen/functions
 
 # local env files
 .env.local
